@@ -32,6 +32,8 @@ public class Main {
         }
 
 
+        //Segunda Parte - EJ3
+
         //Buscador de raza
         System.out.println("\n" + "Ingrese la raza que desea eliminar: ");
         String eliminar = input.next();
