@@ -20,7 +20,7 @@ Desarrollo de ejercicios de la Guia N° 3 - Collections con las alumnas.
 
 📁 - En Ejercicio 7, Esta la implementacion en una misma clase, la parte logica con la entidad. Trabajando en el main con el bucle y las preguntas.  
 
-📁 - En Ejercicio 7.1, Esta la implementacion en una misma clase, la parte logica con la entidad, a diferencia que las preguntas estan el metodo CrearProducto(), y no utilizamos parametros, preguntamos y pasamos sus valores en un mismo metodo. Dejando en el main el bucle con cierta parte logica, para que funcione, de tal forma que creemos y guardemos los productos que desea ingresar el usuario, hasta que lo termine. Y el resto de metodos para visualizacion.
+📁 - En Ejercicio 7.1, Esta la implementacion en una misma clase, la parte logica con la entidad, a diferencia que las preguntas estan el metodo CrearProducto(), y no utilizamos parametros, preguntamos y pasamos sus valores en un mismo metodo. Dejando en el main sin variables y el bucle con cierta parte logica, para que funcione, de tal forma que creemos y guardemos los productos que desea ingresar el usuario, hasta que lo termine. Y el resto de metodos para visualizacion.
 
 
 
